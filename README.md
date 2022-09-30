@@ -76,3 +76,5 @@ else:
     print(f' O valor {num} e Impar')
 ```
 ---
+## Citações
+> Esse é um exemplo de citação!
